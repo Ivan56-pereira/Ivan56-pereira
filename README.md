@@ -4,7 +4,7 @@
 
 
 <div>
-  <h1 align="center"> Olá, bem vindo!</h1>
+  <h1 align="left"> Olá, bem vindo!</h1>
   <h2 align="center">Meu nome é Ivan Pereira. </h2>
   <p align="center"> Aqui deixo alguns de meus projetos, e codigo  de alguns curso feito por mim</p>
 
