@@ -4,21 +4,12 @@
 
 
 <div>
-  <p align="center">Olá! Tudo bem? 😃️</p>
-  <p align="center">Meu nome é <i ivan pereira</i></a>. 😃️</p>
-  <p align="center">Toda semana compartilho parte do meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
-  <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
-  </a><br>
-  <p align="center">E quero te pedir para se inscrever no botão aqui abaixo e vir codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
-</div>
+  <p align="center"> Olá, bem vindo!</p>
+  <p align="center">Meu nome é Ivan Pereira. </p>
+  <p align="center"> Aqui deixo alguns de meus projetos, e codigo  de alguns curso feito por mim</p>
 
 
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
 
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
   <a href="https://github.com/ivan56-pereira">
