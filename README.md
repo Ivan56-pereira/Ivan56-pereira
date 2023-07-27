@@ -19,7 +19,8 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="left" alt="python" height="70" width="70" src="![CatTypingGIF](https://github.com/Ivan56-pereira/Ivan56-pereira/assets/125929359/c5ffb259-bdc2-4ad8-bf45-01842392e7e1)">
+  <img align="left" alt="gif" height="70" width="70" src="![MilkAndGIF](https://github.com/Ivan56-pereira/Ivan56-pereira/assets/125929359/c9cf8c4c-2ca9-42a5-b5f2-5ab0f1374659)
+">
   
   <img align="center" alt="python" height="30" width="40" background-color="white" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
