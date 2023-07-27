@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ivan56-pereira/Ivan56-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Codar é um modo de pensar
 <div style="display: flex; justify-content: space-between;"> <br>
