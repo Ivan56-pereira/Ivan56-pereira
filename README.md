@@ -16,8 +16,8 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IvanPereira&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPereira&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
-</div>
-<p align='center'>Tecnologia pode mudar tudo!</p>
+</div> <br> <br>
+<h3>align='center'>Tecnologia pode mudar tudo!</h3>
 
 <div align="center" valign="top"><br>
   <img align="left" alt="gif" height="70" width="70" src="![CatTypingGIF](https://github.com/Ivan56-pereira/Ivan56-pereira/assets/125929359/3c99df77-cd1a-42e3-b07d-df5afa45d2ff)">
