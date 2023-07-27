@@ -19,12 +19,15 @@
 </div>
 
 <div align="center" valign="top"><br>
+   <img align="center" alt="python" height="30" width="40" rsc="![GavinGIF](https://github.com/Ivan56-pereira/Ivan56-pereira/assets/125929359/ff9e036e-ee84-4cb5-b86b-64eb03abfe28)
+![CatTypingGIF](https://github.com/Ivan56-pereira/Ivan56-pereira/assets/125929359/a8150933-88dc-4a92-b8cf-929af25730bc)
+">
   <img align="center" alt="python" height="30" width="40" background-color="white" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div><br> <br>
 
-<p align='center'>formas de contato</p>
+<p align='center'>Tecnologia pode mudar tudo!</p>
 
 <div align="center">
  
